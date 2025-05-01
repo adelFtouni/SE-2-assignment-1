@@ -9,7 +9,7 @@ import prettyjson from 'prettyjson';
 //     console.log(data)
 // }
 //main();
-
+//parse json 
 // async function parseJsonFile() {
 //     try {
 //         const data = await parseJson('data/book orders.json');
