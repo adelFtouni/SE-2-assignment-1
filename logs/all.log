@@ -1,0 +1,21 @@
+{"level":"info","message":"secret is","timestamp":"2025-04-28T18:14:18.470Z"}
+{"level":"info","message":"secret is","timestamp":"2025-04-28T18:14:36.993Z"}
+{"level":"info","message":"secret from logger","timestamp":"2025-04-28T18:14:45.596Z"}
+{"level":"info","message":"secret from loggerthis is our secret","timestamp":"2025-04-28T18:15:43.195Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:16:03.562Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:18:13.321Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:19:19.292Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:21:17.447Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:21:26.714Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:22:19.540Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:22:53.722Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:24:04.961Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:24:18.480Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:25:49.555Z"}
+{"level":"info","message":"secret from logger undefined","timestamp":"2025-04-28T18:27:28.996Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:32:17.779Z"}
+{"level":"info","message":"secret from logger this is our secret","timestamp":"2025-04-28T18:32:29.611Z"}
+{"level":"info","message":"secret from logger your_secret_key_here","timestamp":"2025-04-28T18:33:41.118Z"}
+{"level":"info","message":"secret from logger your_secret_key_here","timestamp":"2025-04-28T18:34:01.424Z"}
+{"level":"info","message":"Starting the application...","timestamp":"2025-04-28T18:51:22.656Z"}
+{"level":"info","message":"CSV file read successfully.","timestamp":"2025-04-28T18:51:22.673Z"}
