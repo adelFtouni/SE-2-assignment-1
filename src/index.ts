@@ -19,6 +19,7 @@ import prettyjson from 'prettyjson';
 //     }
 // }
 // parseJsonFile();
+console.log('Parsing xml file..');
 async function parseXmlFile() {
     try {
         const data = await parseXml('data/toy orders.xml');
